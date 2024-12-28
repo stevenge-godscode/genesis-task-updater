@@ -1,0 +1,7 @@
+[project]
+name = "genesis-task-updater"
+version = "0.1.0"
+description = "Genesis task-updater component"
+dependencies = [
+    "genesis-base",
+]
